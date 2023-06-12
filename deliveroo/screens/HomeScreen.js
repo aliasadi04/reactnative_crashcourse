@@ -40,12 +40,12 @@ export default function HomeScreen() {
 						Current Location
 						<ChevronDownIcon
 							size={20}
-							color={"black"}
+							color={"green"}
 							className="self-center justify-self-center"
 						/>
 					</Text>
 				</View>
-				<UserIcon size={35} color={"black"} />
+				<UserIcon size={35} color={"green"} />
 			</View>
 
 			{/* Search */}
